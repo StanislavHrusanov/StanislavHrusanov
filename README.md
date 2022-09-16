@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stanislavhrusanov&show_icons=true&locale=en&layout=compact" alt="stanislavhrusanov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stanislavhrusanov&" alt="stanislavhrusanov" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stanislavhrusanov)
