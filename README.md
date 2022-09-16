@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **JS**
 
 - 📫 How to reach me **stanislavhrusanov@gmail.com**
-- 
 
 ## 🌐 Socials
 <a href="https://fb.com/stanislav hrusanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stanislav hrusanov" height="30" width="40" /></a>
@@ -16,6 +15,5 @@
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs?username=stanislavhrusanov)
-
+![](https://github-readme-stats.vercel.app/api/top-langs?username=stanislavhrusanov&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stanislavhrusanov)
